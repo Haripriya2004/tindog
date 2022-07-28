@@ -112,15 +112,11 @@ h1 {
 
 /* press */
 
-#press {
-    padding: 5% 15%;
-    background-color: #ef8172;
-    display: flex;
-    justify-content: space-around;
-}
+
 
 .press-logo {
     width: 20%;
+    margin:2%;
 }
 
 /* pricing */
