@@ -112,6 +112,10 @@ h1 {
 
 /* press */
 
+#press {
+    display: flex;
+    justify-content: space-between;
+}
 
 
 .press-logo {
